@@ -38,7 +38,7 @@ refill_interval: 600 # check every 10 minutes
 total_count: 0
 throughput: 400
 max_pending: 800
-max_wallets: 4
+max_wallets: 400
 rebroadcast: 120
 base_fee: 20
 tip_fee: 2
@@ -60,7 +60,7 @@ refill_interval: 600 # check every 10 minutes
 total_count: 0
 throughput: 215
 max_pending: 430
-max_wallets: 4
+max_wallets: 400
 rebroadcast: 120
 base_fee: 20
 tip_fee: 2
@@ -81,7 +81,7 @@ total_count: 0
 throughput: 3
 sidecars: 2
 max_pending: 6
-max_wallets: 1
+max_wallets: 100
 replace: 30
 max_replacements: 4
 rebroadcast: 30
@@ -101,7 +101,7 @@ refill_interval: 600 # check every 10 minutes
 total_count: 0
 throughput: 200
 max_pending: 400
-max_wallets: 2
+max_wallets: 200
 rebroadcast: 120
 base_fee: 10
 tip_fee: 2
@@ -123,7 +123,7 @@ refill_interval: 600 # check every 10 minutes
 total_count: 0
 throughput: 20
 max_pending: 20
-max_wallets: 4
+max_wallets: 400
 rebroadcast: 120
 base_fee: 20
 tip_fee: 2
@@ -142,7 +142,7 @@ refill_interval: 600 # check every 10 minutes
 total_count: 0
 throughput: 200
 max_pending: 200
-max_wallets: 2
+max_wallets: 200
 rebroadcast: 120
 base_fee: 20
 tip_fee: 2
